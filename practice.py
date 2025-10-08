@@ -1,0 +1,5 @@
+a=5
+b=2
+c=5+2
+print(c)
+print(c+1)
